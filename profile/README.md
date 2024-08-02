@@ -1,8 +1,8 @@
-# OnSchool: Advanced School Management System
+# OnSchola: Advanced School Management System
 
 ## Overview
 
-Welcome to the onSchool project! onSchool is an advanced school management system designed to help schools of all sizes establish a robust online presence with minimal cost and effort. Our goal is to revolutionize school management by providing a comprehensive, cost-effective SaaS platform that simplifies operations and enhances the educational experience.
+Welcome to the OnSchola project! OnSchola is an advanced school management system designed to help schools of all sizes establish a robust online presence with minimal cost and effort. Our goal is to revolutionize school management by providing a comprehensive, cost-effective SaaS platform that simplifies operations and enhances the educational experience.
 
 ## Key Features
 
@@ -41,7 +41,7 @@ Welcome to the onSchool project! onSchool is an advanced school management syste
 
 ## Current Status
 
-onSchool is currently in the concept and prototype stages, with ongoing development to bring our vision to life. We are committed to launching soon and making a significant impact in the education sector.
+OnSchola is currently in the concept and prototype stages, with ongoing development to bring our vision to life. We are committed to launching soon and making a significant impact in the education sector.
 
 ## How to Contribute
 
@@ -49,7 +49,7 @@ We welcome contributions from developers, designers, and educators. Whether you 
 
 ### Backend API
 
-The backend API handles the core functionality of the onSchool platform. It includes user authentication, data management, and AI integration.
+The backend API handles the core functionality of the OnSchola platform. It includes user authentication, data management, and AI integration.
 
 ### Frontend Website
 
@@ -57,18 +57,18 @@ The frontend website provides an intuitive and user-friendly interface for teach
 
 ### DevOps
 
-Our DevOps team ensures smooth deployment, scalability, and security of the onSchool platform. This involves CI/CD pipelines, server management, and monitoring.
+Our DevOps team ensures smooth deployment, scalability, and security of the OnSchola platform. This involves CI/CD pipelines, server management, and monitoring.
 
 ### Join the Team
 
 We are always looking for passionate individuals to join our team. Whether you have expertise in development, design, education, or project management, we would love to hear from you.
-If you are interested in joining the onSchool team, please send us an email at [priyanshuverma@outlook.in] with a brief description of how you would like to contribute.
+If you are interested in joining the OnSchola team, please send us an email at [priyanshuverma@outlook.in] with a brief description of how you would like to contribute.
 
 ## Contact Us
 
 If you have any questions or need assistance, feel free to reach out to us at [priyanshuverma@outlook.in].
 
-Thank you for your interest in onSchool. Together, let's transform the future of education!
+Thank you for your interest in OnSchola. Together, let's transform the future of education!
 
 ## Code of Conduct
 
